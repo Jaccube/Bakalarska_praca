@@ -6,6 +6,7 @@ Fakulta prírodných vied a informatiky
 Študijný program: Aplikovaná informatika
 Školiteľ: doc. PaedDr. Martin Magdin Ph.D.
 Rok: 2025
+Link na videoukážku funkčnosti hry: https://youtu.be/9WcNbl-qTTM
 
 # O projekte
 Táto bakalárska práca sa zaoberá návrhom a implementáciou hry Dáma pomocou mikrokontroléra Arduino s využitím RGB displeja. Cieľom je vytvoriť funkčný prototyp, ktorý kombinuje tradičnú stolovú hru s modernými technológiami, čím sa zvyšuje interaktivita a prístupnosť hry pre širšie publikum.
